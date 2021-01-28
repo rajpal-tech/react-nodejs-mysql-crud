@@ -4,7 +4,7 @@ module.exports = {
     connection: {
       host: "localhost",
       user : "root",
-        password : "Techugo@123",
+        password : "",
         database : "blogs",
     }
   },
